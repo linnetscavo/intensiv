@@ -1,0 +1,11 @@
+baseline(RandomForest):
+pandas, numpy — базовые для работы с таблицами и числами.
+scikit-learn — RandomForest, KNNImputer, train_test_split, cross_val_score.
+matplotlib, seaborn — визуализация данных и корреляций.
+missingno — графическое отображение пропусков.
+openpyxl — для чтения Excel-файлов.
+pyarrow — для чтения Parquet
+
+bs2(CatBoost):
+то же + добавлен catboost
+
